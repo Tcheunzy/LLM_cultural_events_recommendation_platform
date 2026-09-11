@@ -1,0 +1,29 @@
+[project]
+name = "projet9"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "faiss-cpu>=1.15.0",
+    "langchain>=1.4.0",
+    "langchain-community>=0.4.2",
+    "langchain-huggingface>=1.2.2",
+    "lxml>=6.1.3",
+    "matplotlib>=3.11.1",
+    "missingno>=0.5.2",
+    "mistralai>=2.10.0",
+    "numpy>=2.5.3",
+    "pandas>=3.0.5",
+    "pathlib>=1.0.1",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "torch>=2.14.0",
+    "vectorstores>=0.1.2.dev50",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.3.0",
+]
