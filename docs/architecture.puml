@@ -1,0 +1,87 @@
+@startuml
+skinparam backgroundColor white
+skinparam defaultFontName Arial
+skinparam componentStyle uml2
+skinparam shadowing false
+
+skinparam component {
+  BackgroundColor #EAF0F4
+  BorderColor #0B3D5C
+  FontColor #1A2733
+  ArrowColor #1C7293
+  ArrowFontColor #1A2733
+}
+skinparam interface {
+  BackgroundColor white
+  BorderColor #1C7293
+  FontColor #1A2733
+}
+skinparam database {
+  BackgroundColor #EAF0F4
+  BorderColor #0B3D5C
+  FontColor #1A2733
+}
+skinparam cloud {
+  BackgroundColor #FCEFDA
+  BorderColor #E8A33D
+  FontColor #1A2733
+}
+skinparam package {
+  BackgroundColor white
+  BorderColor #0B3D5C
+  FontColor #0B3D5C
+  FontStyle bold
+}
+skinparam actor {
+  BackgroundColor #EAF0F4
+  BorderColor #0B3D5C
+}
+skinparam note {
+  BackgroundColor #FCEFDA
+  BorderColor #E8A33D
+  FontColor #1A2733
+}
+
+package "Poste client" {
+  actor "Utilisateur" as user
+  component "Interface Streamlit\n<i>streamlit_app.py</i>" as streamlit
+  user -down-> streamlit : question en\nlangage naturel
+}
+
+package "Conteneur Docker — API Puls-Events" {
+  () "/health  /ask  /rebuild" as EP
+  component "API FastAPI\n<i>api/main.py</i>" as api
+  component "Chaîne RAG (LCEL)\n<i>src/generation.py</i>" as chain
+  component "Pipeline de données\n<i>src/preparation.py</i>\n<i>src/indexation.py</i>" as pipeline
+  database "Index FAISS\n<i>data/index/faiss_vectorstore</i>" as faiss
+
+  EP -down- api
+  api -down-> chain : invoke(question)
+  chain -down-> faiss : recherche vectorielle\n(retriever, k = 3)
+  pipeline -down-> faiss : construit / reconstruit\n(build_index.py, POST /rebuild)
+}
+
+streamlit -right-> EP : HTTP POST /ask
+api ..left..> streamlit : JSON {"response": "..."}
+
+cloud "API Mistral (externe)" {
+  component "mistral-embed" as embed
+  component "ministral-3b-2512" as llm
+}
+
+chain -down-> llm : génération de\nla réponse ancrée
+chain .down.> embed : embedding de\nla question
+pipeline .down.> embed : embedding des\névénements nettoyés
+
+note right of chain
+  Retriever + prompt système
+  anti-hallucination + LLM,
+  assemblés via LangChain LCEL
+end note
+
+note bottom of pipeline
+  Nettoyage, déduplication,
+  filtrage (Open Agenda)
+end note
+
+@enduml

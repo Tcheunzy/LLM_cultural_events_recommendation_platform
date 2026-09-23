@@ -78,7 +78,7 @@ def charger_df_evenements_final(chemin_data: str = "data/data.json") -> pd.DataF
 
     # Fenêtre temporelle : événements dont la date de fin est dans la dernière année ou à venir
     cutoff = pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=FENETRE_JOURS)
-    dates_fin_utc = pd.to_datetime(df_evenements_clean["lastdate_end"], utc=True)
+    dates_fin_utc = pd.to_datetime(df_evenements_clean["date_max"], utc=True)
     df_evenements_clean = df_evenements_clean[dates_fin_utc >= cutoff].copy()
 
     # Exclusion des événements hors périmètre culturel (via mots-clés)

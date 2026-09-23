@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="793px" preserveAspectRatio="none" style="width:1066px;height:793px;" version="1.1" viewBox="0 0 1066 793" width="1066px" zoomAndPan="magnify"><defs/><g><!--MD5=[33cb1f5862e330b1a3aae2e01abeabe7]
+cluster Poste client--><polygon fill="#FFFFFF" points="483,24,582,24,589,46.2969,679,46.2969,679,308,483,308,483,24" style="stroke: #0B3D5C; stroke-width: 1.5;"/><line style="stroke: #0B3D5C; stroke-width: 1.5;" x1="483" x2="589" y1="46.2969" y2="46.2969"/><text fill="#0B3D5C" font-family="Arial" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="93" x="487" y="38.9951">Poste client</text><!--MD5=[297580f1002d56c67f503941b5199744]
+cluster Conteneur Docker — API Puls-Events--><polygon fill="#FFFFFF" points="22,216.5,319,216.5,326,238.7969,459,238.7969,459,773,22,773,22,216.5" style="stroke: #0B3D5C; stroke-width: 1.5;"/><line style="stroke: #0B3D5C; stroke-width: 1.5;" x1="22" x2="326" y1="238.7969" y2="238.7969"/><text fill="#0B3D5C" font-family="Arial" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="291" x="26" y="231.4951">Conteneur Docker — API Puls-Events</text><!--MD5=[7382056ee3d5d42c7203a2b56593c41e]
+cluster API Mistral (externe)--><path d="M494.3557,676.3421 C504.7922,664.8136 512.6361,666.5165 519.4881,679.951 C525.6391,667.1177 533.3618,665.7674 542.6298,676.947 C549.3566,663.4064 559.8649,661.7285 568.6855,674.9052 C578.1781,663.6181 587.4203,663.5916 594.4593,677.4229 C600.9548,664.4975 611.1732,667.3948 617.9615,677.119 C625.0764,663.5963 636.3485,660.3322 646.4139,674.0356 C652.3656,663.0628 661.935,662.2815 668.5667,673.3523 C678.1177,662.8782 688.5651,663.3952 696.4021,675.4683 C702.375,663.462 713.6052,662.4472 720.0486,675.0156 C726.3104,663.1641 735.6184,662.1711 743.3786,673.508 C755.372,659.7921 763.9869,664.5318 772.0918,677.6662 C778.875,667.6305 788.169,668.585 794.0394,678.6622 C800.3662,664.5365 810.9636,663.3544 819.9174,676.1357 C827.3252,664.5175 839.757,662.8012 846.0449,677.2578 C869.5329,683.5621 876.4468,702.5483 856.4475,719.5494 C870.6407,736.8708 869.4493,752.3019 846.4367,760.536 C838.4233,774.5597 829.934,772.149 821.2393,761.224 C814.243,776.4566 804.9156,776.2622 794.9289,764.0954 C787.0069,774.1233 778.9406,775.2891 771.4224,763.6572 C762.2641,777.844 752.543,775.5903 743.8408,763.1842 C737.969,774.6584 729.2827,773.8164 721.3614,765.5137 C713.9488,780.837 702.61,780.3005 692.6363,768.1959 C685.4754,781.6924 674.9255,780.4116 667.6236,768.3338 C657.6585,780.0713 649.2527,779.9295 641.9353,765.7131 C634.1809,776.4866 625.4844,775.499 618.7729,764.5986 C612.0178,777.0525 598.7984,775.227 592.1321,764.4966 C584.4462,775.6084 576.8631,776.5379 568.8971,764.7813 C559.7902,777.904 549.1376,776.4398 542.0664,762.7446 C532.9771,772.2696 522.7548,774.2904 516.4598,759.7689 C509.1129,773.1802 500.0188,772.3167 492.0877,760.3294 C468.663,754.5056 464.5135,735.8744 482.0174,719.8647 C463.9103,699.4044 471.6824,685.2415 494.3557,676.3421 " fill="#FCEFDA" style="stroke: #E8A33D; stroke-width: 1.5;"/><text fill="#1A2733" font-family="Arial" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="161" x="586.5" y="693.9951">API Mistral (externe)</text><!--MD5=[8fc3522a43f8c7199df5e09e5bb0188e]
+entity user--><ellipse cx="561" cy="68.5" fill="#EAF0F4" rx="8" ry="8" style="stroke: #0B3D5C; stroke-width: 1.5;"/><path d="M561,76.5 L561,103.5 M548,84.5 L574,84.5 M561,103.5 L548,118.5 M561,103.5 L574,118.5 " fill="none" style="stroke: #0B3D5C; stroke-width: 1.5;"/><text fill="#000000" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="68" x="527" y="133.9951">Utilisateur</text><!--MD5=[a6075fad774b7a970e22ba62d1e832cd]
+entity streamlit--><rect fill="#EAF0F4" height="62.5938" style="stroke: #0B3D5C; stroke-width: 1.5;" width="164" x="499" y="229"/><rect fill="#EAF0F4" height="10" style="stroke: #0B3D5C; stroke-width: 1.5;" width="15" x="643" y="234"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="641" y="236"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="641" y="240"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="124" x="514" y="261.9951">Interface Streamlit</text><text fill="#1A2733" font-family="Arial" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="112" x="514" y="278.292">streamlit_app.py</text><!--MD5=[ae4d41e10e25b252562e566b0f17681b]
+entity EP--><ellipse cx="353" cy="260.5" fill="#FFFFFF" rx="8" ry="8" style="stroke: #1C7293; stroke-width: 2.0;"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="145" x="280.5" y="290.4951">/health  /ask  /rebuild</text><!--MD5=[e2307af040e3f87d22824e7603ca28ec]
+entity api--><rect fill="#EAF0F4" height="62.5938" style="stroke: #0B3D5C; stroke-width: 1.5;" width="119" x="293.5" y="371"/><rect fill="#EAF0F4" height="10" style="stroke: #0B3D5C; stroke-width: 1.5;" width="15" x="392.5" y="376"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="390.5" y="378"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="390.5" y="382"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="75" x="308.5" y="403.9951">API FastAPI</text><text fill="#1A2733" font-family="Arial" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="79" x="308.5" y="420.292">api/main.py</text><!--MD5=[f2ae232240a0e72921e100317d96e147]
+entity chain--><rect fill="#EAF0F4" height="62.5938" style="stroke: #0B3D5C; stroke-width: 1.5;" width="169" x="56.5" y="519"/><rect fill="#EAF0F4" height="10" style="stroke: #0B3D5C; stroke-width: 1.5;" width="15" x="205.5" y="524"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="203.5" y="526"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="203.5" y="530"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="129" x="71.5" y="551.9951">Chaîne RAG (LCEL)</text><text fill="#1A2733" font-family="Arial" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="121" x="71.5" y="568.292">src/generation.py</text><!--MD5=[60a7d49912a5e26523681947c411f52d]
+entity pipeline--><rect fill="#EAF0F4" height="78.8906" style="stroke: #0B3D5C; stroke-width: 1.5;" width="182" x="261" y="511"/><rect fill="#EAF0F4" height="10" style="stroke: #0B3D5C; stroke-width: 1.5;" width="15" x="423" y="516"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="421" y="518"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="421" y="522"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="142" x="276" y="543.9951">Pipeline de données</text><text fill="#1A2733" font-family="Arial" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="125" x="276" y="560.292">src/preparation.py</text><text fill="#1A2733" font-family="Arial" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="118" x="276" y="576.5889">src/indexation.py</text><!--MD5=[69a2e840fcb4526bc60ca09884979e50]
+entity faiss--><path d="M89.5,705 C89.5,695 196,695 196,695 C196,695 302.5,695 302.5,705 L302.5,746.5938 C302.5,756.5938 196,756.5938 196,756.5938 C196,756.5938 89.5,756.5938 89.5,746.5938 L89.5,705 " fill="#EAF0F4" style="stroke: #0B3D5C; stroke-width: 1.5;"/><path d="M89.5,705 C89.5,715 196,715 196,715 C196,715 302.5,715 302.5,705 " fill="none" style="stroke: #0B3D5C; stroke-width: 1.5;"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="79" x="99.5" y="731.9951">Index FAISS</text><text fill="#1A2733" font-family="Arial" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="193" x="99.5" y="748.292">data/index/faiss_vectorstore</text><!--MD5=[1a7a766028402bec58ce31452d7a7648]
+entity embed--><rect fill="#EAF0F4" height="46.2969" style="stroke: #0B3D5C; stroke-width: 1.5;" width="139" x="695.5" y="703"/><rect fill="#EAF0F4" height="10" style="stroke: #0B3D5C; stroke-width: 1.5;" width="15" x="814.5" y="708"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="812.5" y="710"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="812.5" y="714"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="99" x="710.5" y="735.9951">mistral-embed</text><!--MD5=[363cc6da13d8bcdcb0851ce1cf6e8377]
+entity llm--><rect fill="#EAF0F4" height="46.2969" style="stroke: #0B3D5C; stroke-width: 1.5;" width="161" x="499.5" y="703"/><rect fill="#EAF0F4" height="10" style="stroke: #0B3D5C; stroke-width: 1.5;" width="15" x="640.5" y="708"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="638.5" y="710"/><rect fill="#EAF0F4" height="2" style="stroke: #0B3D5C; stroke-width: 1.5;" width="4" x="638.5" y="714"/><text fill="#1A2733" font-family="Arial" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="121" x="514.5" y="735.9951">ministral-3b-2512</text><path d="M478,523 L478,578.3984 L696,578.3984 L696,533 L686,523 L478,523 " fill="#FCEFDA" style="stroke: #E8A33D; stroke-width: 1.0;"/><path d="M686,523 L686,533 L696,533 L686,523 " fill="#FCEFDA" style="stroke: #E8A33D; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="182" x="484" y="540.0669">Retriever + prompt système</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="157" x="484" y="555.1997">anti-hallucination + LLM,</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="197" x="484" y="570.3325">assemblés via LangChain LCEL</text><path d="M869.5,706 L869.5,746.2656 L1054.5,746.2656 L1054.5,716 L1044.5,706 L869.5,706 " fill="#FCEFDA" style="stroke: #E8A33D; stroke-width: 1.0;"/><path d="M1044.5,706 L1044.5,716 L1054.5,716 L1044.5,706 " fill="#FCEFDA" style="stroke: #E8A33D; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="164" x="875.5" y="723.0669">Nettoyage, déduplication,</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="145" x="875.5" y="738.1997">filtrage (Open Agenda)</text><!--MD5=[3780aaff66df024217e243bf06b4179d]
+link user to streamlit--><path d="M565.74,137.04 C569.02,163.37 573.36,198.18 576.57,223.95 " fill="none" id="user-&gt;streamlit" style="stroke: #1C7293; stroke-width: 1.0;"/><polygon fill="#1C7293" points="577.2,228.98,580.0395,219.5493,576.5728,224.0195,572.1027,220.5528,577.2,228.98" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="75" x="587.5" y="180.0669">question en</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="100" x="575" y="195.1997">langage naturel</text><!--MD5=[54b530ae1177017cf55deb6c20fcc029]
+link EP to api--><path d="M353,269.84 C353,289.26 353,338.34 353,370.78 " fill="none" id="EP-api" style="stroke: #1C7293; stroke-width: 1.0;"/><!--MD5=[6422e2ada927dddb9e3a81014940eb9c]
+link api to chain--><path d="M308.56,434.11 C273.79,458.05 225.5,491.31 189.69,515.97 " fill="none" id="api-&gt;chain" style="stroke: #1C7293; stroke-width: 1.0;"/><polygon fill="#1C7293" points="185.38,518.93,195.0625,517.1274,189.5002,516.0974,190.5303,510.5351,185.38,518.93" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="106" x="261" y="477.0669">invoke(question)</text><!--MD5=[460b0e1c94c74ee108ac2a923e02342e]
+link chain to faiss--><path d="M97.25,582.2 C75.24,601.61 55.92,627.57 70,652 C79.58,668.62 94.54,681.8 110.87,692.12 " fill="none" id="chain-&gt;faiss" style="stroke: #1C7293; stroke-width: 1.0;"/><polygon fill="#1C7293" points="115.5,694.95,109.9117,686.84,111.2354,692.3399,105.7355,693.6635,115.5,694.95" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="133" x="71" y="633.0669">recherche vectorielle</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="106" x="84.5" y="648.1997">(retriever, k = 3)</text><!--MD5=[fe4d850b78173c780f8cf7ff487d54d5]
+link pipeline to faiss--><path d="M279.34,590 C266.88,598.74 254.81,608.8 245,620 C227.26,640.26 214.68,668.05 206.7,689.95 " fill="none" id="pipeline-&gt;faiss" style="stroke: #1C7293; stroke-width: 1.0;"/><polygon fill="#1C7293" points="204.97,694.81,211.7475,687.664,206.6408,690.0974,204.2074,684.9907,204.97,694.81" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="137" x="274" y="633.0669">construit / reconstruit</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="193" x="246" y="648.1997">(build_index.py, POST /rebuild)</text><!--MD5=[89fc339bad5735c7410038af243f8731]
+link streamlit to EP--><path d="M498.78,260.5 C450.22,260.5 393.31,260.5 367.29,260.5 " fill="none" id="streamlit-&gt;EP" style="stroke: #1C7293; stroke-width: 1.0;"/><polygon fill="#1C7293" points="362.22,260.5,371.22,264.5,367.22,260.5,371.22,256.5,362.22,260.5" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="100" x="380.5" y="253.5669">HTTP POST /ask</text><!--MD5=[fcfe4797e0160a35492a8da3cbaed612]
+reverse link streamlit to api--><path d="M526.73,294.82 C489.2,317.87 439.62,348.31 403.04,370.77 " fill="none" id="streamlit&lt;-api" style="stroke: #1C7293; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#1C7293" points="531.25,292.05,521.4875,293.3511,526.9893,294.6665,525.6739,300.1683,531.25,292.05" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="151" x="475" y="337.0669">JSON {"response": "..."}</text><!--MD5=[1e775082be61cbc0ade8fb61479f53af]
+link chain to llm--><path d="M216.45,582.01 C225.32,584.99 234.3,587.74 243,590 C330.41,612.74 362.18,581.74 444,620 C463.39,629.07 463.34,638.56 480,652 C500.53,668.56 524.36,686.02 543.6,699.71 " fill="none" id="chain-&gt;llm" style="stroke: #1C7293; stroke-width: 1.0;"/><polygon fill="#1C7293" points="547.89,702.75,542.8603,694.2823,543.8107,699.8587,538.2343,700.8091,547.89,702.75" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="89" x="494" y="633.0669">génération de</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="115" x="481" y="648.1997">la réponse ancrée</text><!--MD5=[2c49049965dd45518da7edd3e0fced53]
+link chain to embed--><path d="M214.63,582.02 C224.06,585.12 233.68,587.89 243,590 C398.74,625.2 456.17,552.79 601,620 C619.24,628.47 615.17,642.7 633,652 C651.01,661.39 659.36,651.93 678,660 C700.01,669.53 721.63,685.65 737.81,699.44 " fill="none" id="chain-&gt;embed" style="stroke: #1C7293; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#1C7293" points="741.8,702.89,737.6057,693.9789,738.0168,699.6208,732.375,700.0319,741.8,702.89" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="92" x="634" y="633.0669">embedding de</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="70" x="645" y="648.1997">la question</text><!--MD5=[ea8134c92ccfdee33fb37cc2638148f7]
+link pipeline to embed--><path d="M443.18,585.67 C448.83,587.27 454.47,588.73 460,590 C519.92,603.75 688.01,580.37 735,620 C757.46,638.94 763.72,673.43 765.17,697.7 " fill="none" id="pipeline-&gt;embed" style="stroke: #1C7293; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#1C7293" points="765.4,702.71,768.9836,693.5363,765.171,697.7152,760.992,693.9026,765.4,702.71" style="stroke: #1C7293; stroke-width: 1.0;"/><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="99" x="777.5" y="633.0669">embedding des</text><text fill="#1A2733" font-family="Arial" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="140" x="757" y="648.1997">événements nettoyés</text><!--MD5=[ec138dea9c2f7dcee58ac75fc38b5209]
+link chain to GMN26--><path d="M177.17,518.89 C199.53,501.5 229.75,481.65 260.5,472.5 C337.61,449.56 363.48,452.91 441.5,472.5 C480.42,482.27 520.28,504.68 548.42,522.99 " fill="none" id="chain-GMN26" style="stroke: #1C7293; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><!--MD5=[78ca367fcfdab691b357e024a350ce44]
+link pipeline to GMN29--><path d="M443.12,585.94 C448.79,587.47 454.45,588.85 460,590 C557.26,610.2 822.58,566.06 906,620 C936.19,639.52 951.21,681.01 957.74,705.59 " fill="none" id="pipeline-GMN29" style="stroke: #1C7293; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><!--MD5=[6348ac8e6677e32896298e843fc0fc3c]
+@startuml
+skinparam backgroundColor white
+skinparam defaultFontName Arial
+skinparam componentStyle uml2
+skinparam shadowing false
+
+skinparam component {
+  BackgroundColor #EAF0F4
+  BorderColor #0B3D5C
+  FontColor #1A2733
+  ArrowColor #1C7293
+  ArrowFontColor #1A2733
+}
+skinparam interface {
+  BackgroundColor white
+  BorderColor #1C7293
+  FontColor #1A2733
+}
+skinparam database {
+  BackgroundColor #EAF0F4
+  BorderColor #0B3D5C
+  FontColor #1A2733
+}
+skinparam cloud {
+  BackgroundColor #FCEFDA
+  BorderColor #E8A33D
+  FontColor #1A2733
+}
+skinparam package {
+  BackgroundColor white
+  BorderColor #0B3D5C
+  FontColor #0B3D5C
+  FontStyle bold
+}
+skinparam actor {
+  BackgroundColor #EAF0F4
+  BorderColor #0B3D5C
+}
+skinparam note {
+  BackgroundColor #FCEFDA
+  BorderColor #E8A33D
+  FontColor #1A2733
+}
+
+package "Poste client" {
+  actor "Utilisateur" as user
+  component "Interface Streamlit\n<i>streamlit_app.py</i>" as streamlit
+  user -down-> streamlit : question en\nlangage naturel
+}
+
+package "Conteneur Docker — API Puls-Events" {
+  () "/health  /ask  /rebuild" as EP
+  component "API FastAPI\n<i>api/main.py</i>" as api
+  component "Chaîne RAG (LCEL)\n<i>src/generation.py</i>" as chain
+  component "Pipeline de données\n<i>src/preparation.py</i>\n<i>src/indexation.py</i>" as pipeline
+  database "Index FAISS\n<i>data/index/faiss_vectorstore</i>" as faiss
+
+  EP -down- api
+  api -down-> chain : invoke(question)
+  chain -down-> faiss : recherche vectorielle\n(retriever, k = 3)
+  pipeline -down-> faiss : construit / reconstruit\n(build_index.py, POST /rebuild)
+}
+
+streamlit -right-> EP : HTTP POST /ask
+api ..left..> streamlit : JSON {"response": "..."}
+
+cloud "API Mistral (externe)" {
+  component "mistral-embed" as embed
+  component "ministral-3b-2512" as llm
+}
+
+chain -down-> llm : génération de\nla réponse ancrée
+chain .down.> embed : embedding de\nla question
+pipeline .down.> embed : embedding des\névénements nettoyés
+
+note right of chain
+  Retriever + prompt système
+  anti-hallucination + LLM,
+  assemblés via LangChain LCEL
+end note
+
+note bottom of pipeline
+  Nettoyage, déduplication,
+  filtrage (Open Agenda)
+end note
+
+@enduml
+
+PlantUML version 1.2020.02(Sun Mar 01 10:22:07 UTC 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 21.0.10+7-Ubuntu-124.04
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

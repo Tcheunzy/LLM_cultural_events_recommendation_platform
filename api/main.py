@@ -4,6 +4,9 @@ from pydantic import BaseModel
 from src.generation import construire_chaine_rag
 from src.indexation import reconstruire_vectorstore  
 import os
+from datetime import datetime, timezone
+from pathlib import Path
+from src.generation import CHEMIN_INDEX_PAR_DEFAUT
 
 etat = {}
 REBUILD_TOKEN = os.getenv("REBUILD_TOKEN")
@@ -48,3 +51,28 @@ def rebuild():
 
 
 
+@app.get("/metadata", tags=["Monitoring"])
+def metadata():
+    vectorstore = etat["retriever"].vectorstore
+    nb_evenements = vectorstore.index.ntotal
+
+    documents = vectorstore.docstore._dict.values()
+    villes = sorted({doc.metadata.get("ville") for doc in documents if doc.metadata.get("ville")})
+    mots_cles = sorted({
+        mot for doc in documents for mot in doc.metadata.get("mots_cles", []) if mot
+    })
+
+    chemin_fichier_index = Path(CHEMIN_INDEX_PAR_DEFAUT) / "index.faiss"
+    derniere_reconstruction = None
+    if chemin_fichier_index.exists():
+        derniere_reconstruction = datetime.fromtimestamp(
+            chemin_fichier_index.stat().st_mtime, tz=timezone.utc
+        ).isoformat()
+
+    return {
+        "nb_evenements_indexes": nb_evenements,
+        "derniere_reconstruction": derniere_reconstruction,
+        "nb_villes": len(villes),
+        "villes": villes,
+        "mots_cles": mots_cles,
+    }
