@@ -1,0 +1,14 @@
+question,reponse_reference,categorie
+"À quelle heure et où a lieu la ""Lecture à l'heure du goûter"" à Vitré ?","Mercredi 20 mai de 17h à 17h30, à la médiathèque du Quai des arts, 1 rue du Bourg-aux-Moines, 35500 Vitré.",factuelle_simple
+"Quand se déroule le ""Fest deizh"" à Saint-M'Hervé ?","Dimanche 24 mai de 18h à 20h, à la base de loisirs de la Haute-Vilaine (La ville cuite, 35500 Saint-M'Hervé).",factuelle_simple
+"Quel est le tarif du spectacle de ""Fêtez la Bretagne à Pont l'Abbé"" ?","L'après-midi est gratuite ; le spectacle en soirée est payant, entre 5 et 25 euros.",factuelle_simple
+"À quelle adresse et quel jour a lieu ""Fougères fête la Bretagne"" ?","Le 19 mai à partir de 16h, Place Aristide Briand à Fougères, avec une soirée au 3F.",factuelle_simple
+"Sur quelle période s'étale ""Brest La Fest'Yves 2026"" ?","Du jeudi 14 au dimanche 24 mai 2026, dans le quartier de Recouvrance / rue Saint-Malo à Brest.",factuelle_simple
+Y a-t-il un événement autour de la danse bretonne dans les Côtes-d'Armor fin mai 2026 ?,"Oui, la ""Fête de la Bretagne à Pléneuf-Val-André"" (22370) le 24 mai, avec initiation à la danse bretonne dès 14h par le cercle celtique Les Gastadours de Lamballe.",multi_critere
+Quels événements en Ille-et-Vilaine proposent de la musique bretonne autour du 20 mai 2026 ?,"Le ""Fest deizh"" à Saint-M'Hervé (24 mai) et ""Fougères fête la Bretagne"" (19 mai, avec le duo Car et Ment).",multi_critere
+Existe-t-il un événement accessible aux personnes à mobilité réduite dans le Finistère à cette période ?,"Oui, ""Fêtez la Bretagne à Pont l'Abbé"" (29120, 23 mai) précise une accessibilité handicap moteur.",multi_critere
+Quel événement combine langue bretonne et spectacle musical dans la même journée ?,"""Fêtez la Bretagne à Pont l'Abbé"" (23 mai) : initiation à la langue bretonne l'après-midi, spectacle musical en soirée.",multi_critere
+Quel événement gratuit et familial est prévu pour les jeunes enfants en Ille-et-Vilaine ?,"La ""Lecture à l'heure du goûter"" à Vitré (20 mai), entrée libre, à partir de 3 ans.",multi_critere
+Quels événements de la Fête de la Bretagne sont prévus à Nantes en 2026 ?,"Aucune information disponible — Nantes est en Pays de la Loire, hors du périmètre régional Bretagne couvert par la base.",hors_perimetre
+Y a-t-il une journée de recrutement dans le secteur culturel prévue à Rennes ce mois-ci ?,Aucune information disponible — ce type d'événement est explicitement exclu du filtrage culturel.,hors_perimetre
+Quel événement autour de la Bretagne est prévu en 2028 ?,Aucune information disponible — la base ne couvre que les événements dans une fenêtre d'environ un an.,hors_perimetre
