@@ -508,7 +508,7 @@ pyzmq==27.2.0
     # via
     #   ipykernel
     #   jupyter-client
-ragas==0.3.9
+ragas==0.4.3
     # via projet9
 referencing==0.37.0
     # via
